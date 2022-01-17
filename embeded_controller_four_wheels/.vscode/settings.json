@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "ks106a.h": "c",
+        "imu_driver.h": "c",
+        "rtdbg.h": "c"
+    }
+}
